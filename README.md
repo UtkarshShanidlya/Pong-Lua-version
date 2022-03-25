@@ -8,9 +8,8 @@ Pong game via Lua and Love2d framework
 
 To run This game
 You should have love2d installed
-if you have it
 
-Then,
+To run it 
 Click on the Pong.love file in the
 Pong folder 
 
